@@ -1,0 +1,7 @@
+[Bookmarks]
+[Recent]
+/home/ver/Downloads/
+/home/ver/Documents/
+!Home
+/home/ver/
+/home/ver/Documents/film/
